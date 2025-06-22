@@ -1,0 +1,26 @@
+{
+  "id": "star-trek-intro",
+  "name": "star-trek-intro",
+  "title": "Star Trek Intro",
+  "description": "Star Trek PADD welcome dialog for Foundry VTT.",
+  "version": "13.0.1",
+  "authors": [
+    {
+      "name": "Jason",
+      "flags": {}
+    }
+  ],
+  "scripts": [
+    "welcome-message.js"
+  ],
+  "styles": [
+    "styles.css"
+  ],
+  "manifest": "https://raw.githubusercontent.com/LinkThroughTime/LinkThroughTime/main/module.json",
+  "download": "https://github.com/LinkThroughTime/LinkThroughTime/releases/latest/download/star-trek-intro-1.0.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.344",
+    "maximum": "13"
+  }
+}

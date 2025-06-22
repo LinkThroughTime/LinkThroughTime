@@ -1,0 +1,17 @@
+{
+  "name": "star-trek-intro",
+  "title": "Star Trek Intro",
+  "description": "A simple test module.",
+  "version": "1.0.0",
+  "author": "Vythi",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "type": "module",
+  "scripts": [
+    "welcome-message.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": []
+}
